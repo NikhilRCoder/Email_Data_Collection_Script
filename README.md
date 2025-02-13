@@ -53,5 +53,5 @@ The script requires the following Python packages:
 - Optimization: The script is functional but may require further tuning for efficiency.
 
 ## 👥 Contributors
-Nikhil Ratnakar
-Sourabh
+- Nikhil Ratnakar
+- Sourabh Deshmane
