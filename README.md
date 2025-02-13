@@ -7,11 +7,11 @@ This project automates email data collection by extracting links, modifying URLs
 - Automates the extraction of **target URLs** from specified sources.  
 - Stores collected links for further processing.  
 
-### 2️⃣ URL Modifier (`url_modifier.py`)  
+### 2️⃣ URL Modifier (`url_modifier.ipynb`)  
 - Processes and refines the collected URLs to ensure correct formatting.  
 - Prepares the links for the final data extraction phase.  
 
-### 3️⃣ Main Data Auto (`main_data_auto.py`)  
+### 3️⃣ Main Data Auto (`main_data_auto.ipynb`)  
 - Extracts **email addresses** and other relevant information from the modified URLs.  
 - Handles data parsing and storage efficiently.  
 
