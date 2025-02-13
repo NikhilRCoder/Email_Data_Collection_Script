@@ -36,6 +36,9 @@ The script requires the following Python packages:
 - nest_asyncio – Running async functions in Jupyter or nested loops
 - os – File and system operations
 - re – Regular expressions for data extraction
+- cloudscraper
+- Time
+- Random
 
 ## 🚀 Usage
 
